@@ -2,6 +2,7 @@
 
 <!--
 **BaronKimaru/baronkimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/baronkimaru?label=Follow&style=social)](https://github.com/baronkimaru)
 
 Here are some ideas to get you started:
 
