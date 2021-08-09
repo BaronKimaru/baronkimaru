@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=baronkimaru.baronkimaru)
+[![Linkedin: BaronKimaru](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/baronkimaru/)
 [![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
 
 - 🌱 I’m currently learning **ReactNative** 
@@ -24,8 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bizzinali@gmail.com
 
 ## ✉️ Find me on:
-
-
 <p align="center">
  <a href="https://baronkimaru.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:bizzinali@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
