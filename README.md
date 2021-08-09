@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=baronkimaru.baronkimaru)
-[![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/baronkimaru)
+[![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
 
 - 🌱 I’m currently learning **ReactNative** 
 - 💬 Ask me about **Python, Django, Flask**
