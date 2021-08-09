@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)
-
+![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat&logo=Gitlab&logoColor=white)
 
 <!--
 ### 🧰 Softwares:
