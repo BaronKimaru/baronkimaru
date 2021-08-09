@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 #### Application and Data:
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Django-000000?style=flat&logo=Flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=Flask&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Flask&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)
 
 
 <!--
