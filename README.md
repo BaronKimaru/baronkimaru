@@ -57,7 +57,7 @@ Here are some ideas to get you started:
  
 #### 🧰 Tools/Utilities 
 
-![Pycharm](https://img.shields.io/badge/-Pycharm-3DDC84?style=flat&logo=pycharm&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
