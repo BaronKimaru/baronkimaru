@@ -3,7 +3,6 @@
 <!--
 **BaronKimaru/baronkimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Github](https://img.shields.io/github/followers/baronkimaru?label=Follow&style=social)](https://github.com/baronkimaru)
-[![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/baronkimaru)
 
 Here are some ideas to get you started:
 
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=baronkimaru.baronkimaru)
+[![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/baronkimaru)
 
 - 🌱 I’m currently learning **ReactNative** 
 - 💬 Ask me about **Python, Django, Flask**
