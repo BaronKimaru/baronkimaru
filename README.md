@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
  
 #### 🧰 Tools/Utilities 
 
