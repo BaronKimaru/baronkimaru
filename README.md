@@ -85,14 +85,13 @@ Here are some ideas to get you started:
 
 <br />
 
-### GitHub Stats
+### Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&&exclude_repo=baronkimaru&show_icons=true&theme=merko)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&theme=merko)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="BaronKimaru's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&hide_border=true" />
+  <img align="left" alt="BaronKimaru's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&hide_border=true&theme=merko" />
 
 </details>
