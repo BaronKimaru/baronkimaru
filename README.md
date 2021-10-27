@@ -85,10 +85,6 @@ Here are some ideas to get you started:
 
 <br />
 
-### 
-
-![Top Langs]()
-
 <details>
   <summary>:zap: Fave Langs </summary>
 
