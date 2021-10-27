@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <br />
 
 <details>
-  <summary>:zap: Fave Langs </summary>
+  <summary>:zap: Fave Langs </summary>  
 
   <img align="left" 
        alt="BaronKimaru's Top Langs" 
