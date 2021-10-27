@@ -85,5 +85,5 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&show_icons=true&theme=merko)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&theme=tokyonight)
