@@ -103,7 +103,7 @@ Here are some ideas to get you started:
   <img 
        align="left" 
        alt="BaronKimaru's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&hide_border=true&theme=merko" 
+       src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)" 
   />
 
 </details>
