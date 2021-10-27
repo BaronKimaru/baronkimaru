@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there, I'm BaronKimaru
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=baronkimaru.baronkimaru)
 [![Linkedin: BaronKimaru](https://img.shields.io/badge/-baronkimaru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baronkimaru/)](https://www.linkedin.com/in/baronkimaru/)
 [![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
 
-- 🌱 I’m currently learning **ReactNative** 
+- 🌱 I’m currently learning everything 🤔
 - 💬 Ask me about **Python, Django, Flask**
 - 📫 How to reach me: bizzinali@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of J.R.R Tolkien's Lord of the Rings
@@ -85,5 +87,12 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&show_icons=true&theme=merko)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&&exclude_repo=baronkimaru&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&theme=merko)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="BaronKimaru's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&hide_border=true" />
+
+</details>
