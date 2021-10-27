@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <br>
   
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img 
