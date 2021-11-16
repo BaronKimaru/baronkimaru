@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm BaronKimaru
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=baronkimaru.baronkimaru)
 [![Linkedin: BaronKimaru](https://img.shields.io/badge/-baronkimaru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baronkimaru/)](https://www.linkedin.com/in/baronkimaru/)
 [![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
