@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin: BaronKimaru](https://img.shields.io/badge/-baronkimaru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baronkimaru/)](https://www.linkedin.com/in/baronkimaru/)
 [![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
 
-- 🌱 Currently Delving into the murly waters of Machine Learning 🤔
+- 🌱 Currently Delving into the Murky waters of Machine Learning 🤔
 - 💬 Ask me about **Web development & Machine Learning**
 - 📫 How to reach me: bizzinali@gmail.com
 - ⚡️ Fun fact: Huge fan of J.R.R Tolkien's Lord of the Rings
@@ -42,21 +42,19 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=black)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Express.js](http://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ---
 
