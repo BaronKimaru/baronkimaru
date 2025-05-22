@@ -85,36 +85,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
----
-
-<details>
-  <summary>:zap: Fave Langs </summary>  
-
-  <img align="left" 
-       alt="BaronKimaru's Top Langs" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&&exclude_repo=baronkimaru&show_icons=true&theme=merko" 
-  />
-
-</details>  
-
----
-
-
-  
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img 
-       align="left" 
-       alt="BaronKimaru's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" 
-  />
-
-</details>
-
----
-
 ---
 
 ### 📊 GitHub Stats
@@ -126,12 +96,13 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=baronkimaru&theme=radical" alt="GitHub Streak"/>
 </div>
 
----
+<!--
 
 ### 📈 LeetCode Stats
 <div align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=baronkimaru&theme=Dark" alt="LeetCode Stats"/>
 </div>
+-->
 
 ---
 
