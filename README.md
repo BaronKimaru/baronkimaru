@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 [![Linkedin: BaronKimaru](https://img.shields.io/badge/-baronkimaru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baronkimaru/)](https://www.linkedin.com/in/baronkimaru/)
 [![Twitter: BaronKimaru](https://img.shields.io/twitter/follow/BaronKimaru?style=social)](https://twitter.com/baronkimaru)
 
-- 🌱 I’m currently learning everything 🤔
-- 💬 Ask me about **Python, Django, Flask**
+- 🌱 Currently Delving into the murly waters of Machine Learning 🤔
+- 💬 Ask me about **Web development & Machine Learning**
 - 📫 How to reach me: bizzinali@gmail.com
-- ⚡️ Fun fact: I'm a huge fan of J.R.R Tolkien's Lord of the Rings
+- ⚡️ Fun fact: Huge fan of J.R.R Tolkien's Lord of the Rings
 
 <!--
 ## ✉️ Find me on:
@@ -33,13 +33,21 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<br />
+---
 
 #### 🧰 Languages:
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
 
 #### Application and Data:
 
@@ -54,7 +62,9 @@ Here are some ideas to get you started:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
- 
+
+---
+
 #### 🧰 Tools/Utilities 
 
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm&logoColor=white)
@@ -63,6 +73,8 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+---
 
 #### DevOps:
 
@@ -81,7 +93,7 @@ Here are some ideas to get you started:
 -->
 
 
-<br />
+---
 
 <details>
   <summary>:zap: Fave Langs </summary>  
@@ -95,8 +107,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
   
 <details open>
   <summary>:zap: GitHub Stats</summary>
@@ -108,3 +119,8 @@ Here are some ideas to get you started:
   />
 
 </details>
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
