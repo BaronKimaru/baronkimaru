@@ -115,5 +115,32 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronkimaru&layout=compact&theme=radical" alt="Top Languages"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=baronkimaru&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baronkimaru&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📈 LeetCode Stats
+<div align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=baronkimaru&theme=Dark" alt="LeetCode Stats"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baronkimaru&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
