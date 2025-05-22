@@ -94,6 +94,9 @@ Here are some ideas to get you started:
 </details>  
 
 <br>
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <details open>
   <summary>:zap: GitHub Stats</summary>
