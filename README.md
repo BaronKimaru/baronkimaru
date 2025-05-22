@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 
   
-<details open>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img 
